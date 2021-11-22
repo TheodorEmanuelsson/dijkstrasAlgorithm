@@ -7,4 +7,4 @@ This R package in an implementation of the Euclidean algorithm and Dijkstra's al
 
 ## Installation
 
-run > devtools::install_github("https://github.com/TheodorEmanuelsson/dijkstrasAlgorithm")
+run > `devtools::install_github("https://github.com/TheodorEmanuelsson/dijkstrasAlgorithm")`
