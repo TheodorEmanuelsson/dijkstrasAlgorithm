@@ -1,0 +1,16 @@
+Package: dijkstrasAlgorithm
+Title: Computes Euclidean and Dijkstra's algorithms in R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Theodor",
+           family = "Emanuelsson",
+           role = c("aut", "cre"),
+           email = "theodor.emanuelsson@me.com")
+Description: An R package for solving the Euclidean and Dijkstra algorithms. It includes a function for computing the greatest common divisor between two scalars (Euclidean algorithm) and a function for computing the shortest paths between nodes in a graph (Dijkstra's algorithm).
+License: GPL (>= 3)
+Imports:
+    testthat (>= 3.0.0)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
